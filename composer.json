@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jakharbek\\datamanager\\": "src",
+            "jakharbek\\datamanager\\": "src"
         }
     }
 }
